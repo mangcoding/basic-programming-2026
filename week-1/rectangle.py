@@ -1,6 +1,9 @@
-length = float(input("Input your length: "))
-height = float(input("Input your height: "))
+x = 1
+y = 2
+z = 3
 
-wide = length * height
+x, y, z = 1 , 2, 3
 
-print("The wide is ", wide)
+a = b = c = 0
+
+print(a,b,z)
